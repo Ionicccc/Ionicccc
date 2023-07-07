@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ionicccc
+- 👋 Hi, I’m @Ivan 
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on talking to smart people
